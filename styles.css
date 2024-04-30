@@ -1,0 +1,29 @@
+html{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    font-family: "Bullet";
+    color: #ff0090;
+    background-color: black;
+    border-radius: 50%; 
+    font-size: 50px;
+}
+h2{
+    font-family: "Bullet";
+    color: rgb(236, 100, 123);
+    border-color: black;
+    font-size: 40px;
+}
+img{
+    border-radius: 25%;
+    display: block;
+      margin: 0 auto;
+      width: 40%;
+}
+p{
+    font-family: "Bowlby One";
+    text-align: center;
+    color:rgb(237, 13, 159);
+    font-size: 30px;;
+}
