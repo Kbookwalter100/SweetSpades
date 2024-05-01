@@ -1,17 +1,17 @@
 html{
-    background-color: aqua;
+    background-image: linear-gradient(#640D6B, #F8D082);
 }
 h1{
     text-align: center;
     font-family: "Bullet";
-    color: #ff0090;
-    background-color: black;
+    color: #B51B75;
+    background-color: #F8D082;
     border-radius: 50%; 
     font-size: 50px;
 }
 h2{
     font-family: "Bullet";
-    color: rgb(236, 100, 123);
+    color: #E65C19;
     border-color: black;
     font-size: 40px;
 }
@@ -24,6 +24,9 @@ img{
 p{
     font-family: "Bowlby One";
     text-align: center;
-    color:rgb(237, 13, 159);
+    color:#F8D082;
     font-size: 30px;;
+}
+.purp{
+    color: #640D6B;
 }
